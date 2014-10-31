@@ -21,6 +21,7 @@ contains pointers to more resources.
 * [Leaving the Company](policies/leaving-the-company.md)
 * [Outside Employment](policies/outside-employment.md)
 * [Pay](policies/pay.md)
+* [Performance Reviews](policies/performance-reviews.md)
 * [Reference Checks](policies/reference-checks.md)
 * [Standards of Conduct](policies/standards-of-conduct.md)
 * [Substance Abuse](policies/substance-abuse.md)
